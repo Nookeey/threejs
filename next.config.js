@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  distDir: 'public_html',
-  trailingSlash: true,
-};
+const nextConfig = {};
 
 module.exports = nextConfig;
